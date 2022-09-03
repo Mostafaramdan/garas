@@ -1,0 +1,315 @@
+{
+    "primary_stage": {
+        "name_ar": "المرحلةاﻹبتدائية",
+        "name_en": "Primary Stage",
+        "subjects":[
+            {
+                "name_ar": "رياضيات",
+                "name_en": "Mathematics"
+            },{
+                "name_ar": "علوم",
+                "name_en": "Science"
+            },{
+                "name_ar": "إنجليزي",
+                "name_en": "English"
+            },{
+                "name_ar": "اسلاميه",
+                "name_en": "Islamic"
+            },{
+                "name_ar": "اجتماعيات",
+                "name_en": "Social Studies"
+            },{
+                "name_ar": "حاسب",
+                "name_en": "Computer"
+            },{
+                "name_ar": "مهارات حياتيه ",
+                "name_en": "Life skills"
+            },{
+                "name_ar": "فنيه",
+                "name_en": "Artistic"
+            },{
+                "name_ar": "لغتي",
+                "name_en": "My language"
+            },{
+                "name_ar": "بدنيه",
+                "name_en": "Physical"
+            },{
+                "name_ar": "تجويد",
+                "name_en": "recitation"
+            },{
+                "name_ar": "قرآن",
+                "name_en": "Quran"
+            }
+        ] 
+    },
+    "middle_stage": {
+        "name_ar": " المرحلة المتوسطة",
+        "name_en": "Middle Stage",
+        "subjects":[
+            {
+                "name_ar": "رياضيات",
+                "name_en": "Mathematics"
+            },{
+                "name_ar": "علوم",
+                "name_en": "Science"
+            },{
+                "name_ar": "لغتي",
+                "name_en": "My language"
+            },{
+                "name_ar": "حاسب",
+                "name_en": "Computer"
+            },{
+                "name_ar": "اسلاميه",
+                "name_en": "Islamic"
+            },{
+                "name_ar": "بدنيه",
+                "name_en": "Physical"
+            },{
+                "name_ar": "اجتماعيات",
+                "name_en": "Social Studies"
+            },{
+                "name_ar": "فنيه",
+                "name_en": "English language"
+            },{
+                "name_ar": "مهارات حياتيه ",
+                "name_en": "Life skills"
+            },{
+                "name_ar": "تفكير ناقد",
+                "name_en": "Critical Thinking"
+            },{
+                "name_ar": "إنجليزي",
+                "name_en": "English"
+            },{
+                "name_ar": "قرآن",
+                "name_en": "Quran"
+            }
+        ] 
+    },
+    "secondary_stage": {
+        "name_ar": " المرحلة الثانوية- المسار العام",
+        "name_en": "Secondary Stage- General",
+        "subjects":[
+            {
+                "name_ar": "دراسات اسلامية - تفسير وقرآن",
+                "name_en": "Islamic Studies - Interpretation and Qur'an"
+            },{
+                "name_ar": "كفايات لغوية",
+                "name_en": "Linguistic competencies"
+            },{
+                "name_ar": "رياضيات",
+                "name_en": "Mathematics"
+            },{
+                "name_ar": "أحياء",
+                "name_en": "Biology"
+            },{
+                "name_ar": "مادة اختيارية",
+                "name_en": "Elective Subject"
+            },{
+                "name_ar": "تقنية رقمية",
+                "name_en": "Digital Tech"
+            },{
+                "name_ar": "علم البيئة",
+                "name_en": "Ecology"
+            },{
+                "name_ar": "فيزياء",
+                "name_en": "Physics"
+            },{
+                "name_ar": "تربية بدنية",
+                "name_en": "Physical Education"
+            },{
+                "name_ar": "تفكير ناقد",
+                "name_en": "Critical Thinking"
+            },{
+                "name_ar": "انجليزي",
+                "name_en": "English"
+            },{
+                "name_ar": "دراسات اسلامية - حديث",
+                "name_en": "Islamic Studies - Hadith"
+            },{
+                "name_ar": "كيمياء",
+                "name_en": "Chemistry"
+            },{
+                "name_ar": "دراسات اجتماعية",
+                "name_en": "Social Studies"
+            },{
+                "name_ar":  "دراسات اسلامية - التوحيد",
+                "name_en": "Islamic Studies - Monotheism"
+            },{
+                "name_ar": "الفنون",
+                "name_en": "Arts"
+            },{
+                "name_ar": "اللياقة والثقافة الصحية",
+                "name_en": "Fitness and Hygiene"
+            },{
+                "name_ar": "التاريخ",
+                "name_en": "History"
+            },{
+                "name_ar": "البحث ومصادر المعلومات",
+                "name_en": "Research and Data source"
+            },{
+                "name_ar": "علوم اجتماعية - جغرافيا",
+                "name_en": "Social Sciences - Geography"
+            },{
+                "name_ar": "المهارات الحياتية والاسرية",
+                "name_en": "Life and Family Skills"
+            },{
+                "name_ar": "مواطنة رقمية",
+                "name_en": "Digital Age"
+            },{
+                "name_ar": "علوم الارض والفضاء",
+                "name_en": "Space Science"
+            },{
+                "name_ar": "حصص الاتقان",
+                "name_en": "Perfectionism"
+            },{
+                "name_ar": "لغة عربية - دراسات ادبية",
+                "name_en": "Arabic - Literary Studies"
+            },{
+                "name_ar": "دراسات نفسية واجتماعية",
+                "name_en": "Psychological and Social Studies"
+            }
+        ] 
+    },
+    "secondary_stage_engineering": {
+        "name_ar": " المرحلة الثانوية- مسار علوم الحاسب والهندسة ",
+        "name_en": "Secondary Stage - Computer Science and Engineering",
+        "subjects":[
+            {
+                "name_ar": "علم البيانات",
+                "name_en": "Data Science"
+            },{
+                "name_ar": "الهندسة",
+                "name_en": "Engineering"
+            },{
+                "name_ar": "انترنت الأشياء",
+                "name_en": "Internet of Things"
+            },{
+                "name_ar": "هندسة برمجيات",
+                "name_en": "Software Engineering"
+            },{
+                "name_ar": "الذكاء الاصطناعي",
+                "name_en": "Artificial Intelligence"
+            },{
+                "name_ar": "تصميم هندسي",
+                "name_en": "Computer Design"
+            },{
+                "name_ar": "مشروع التخرج",
+                "name_en": "Graduation Project"
+            },{
+                "name_ar": "الأمن السيبراني",
+                "name_en": "Cyber Security"
+            }
+        ] 
+    },
+    "secondary_stage_health": {
+        "name_ar": " المرحلة الثانوية- مسار الصحة والحياة ",
+        "name_en": "Secondary Stage - Health and Life",
+        "subjects":[
+            {
+                "name_ar": "مبادئ العلوم الصحية",
+                "name_en": "Health Science Principles"
+            },{
+                "name_ar": "الابتكار في العلوم الصحية",
+                "name_en": "Innovation in Health Sciences"
+            },{
+                "name_ar": "انظمة جسم الانسان",
+                "name_en": "Human Body Systems"
+            },{
+                "name_ar": "تصميم هندسي",
+                "name_en": "Computer Design"
+            },{
+                "name_ar": "الإحصاء - تطبيقات في الصحة",
+                "name_en": "Statistics - Applications in Health"
+            },{
+                "name_ar": "مشروع التخرج",
+                "name_en": "Graduation Project"
+            }
+        ] 
+    },
+    "secondary_stage_business": {
+        "name_ar": " المرحلة الثانوية- مسار إدارة الاعمال ",
+        "name_en": "Secondary Stage - Business Administration",
+        "subjects":[
+            {
+                "name_ar": "صناعة القرار في الاعمال",
+                "name_en": "Decision Making"
+            },{
+                "name_ar": "مقدمة في الاعمال",
+                "name_en": "Intro to Business"
+            },{
+                "name_ar": "الادارة المالية",
+                "name_en": "Financial Management"
+            },{
+                "name_ar": "مبادئ الادارة",
+                "name_en": "Management Principles"
+            },{
+                "name_ar": "الإحصاء - تطبيقات في الاعمال",
+                "name_en": "Statistics - Applications in Business"
+            },{
+                "name_ar": "ريادة الاعمال",
+                "name_en": "Entrepreneurship"
+            },{
+                "name_ar": "مبادئ القانون",
+                "name_en": "Law Principles"    
+            },{
+                "name_ar": "مشروع التخرج",
+                "name_en": "Graduation Project"
+            },{
+                "name_ar": "مبادئ المحاسبة",
+                "name_en": "Accounting Principles"
+            },{
+                "name_ar": "تطبيقات في ريادة الاعمال",
+                "name_en": "Applications of Entrepreneurship"
+            },{
+                "name_ar": "تطبيقات في القانون",
+                "name_en": "Applications of Law"
+            },{
+                "name_ar": "لغة عربية - البلاغة النقدية",
+                "name_en": "Arabic - Critical Rhetoric"
+            }
+        ] 
+    },
+    "secondary_stage_shar": {
+        "name_ar": " المرحلة الثانوية- المسار الشرعي ",
+        "name_en": "Secondary Stage - Shar'i",
+        "subjects":[
+            {
+                "name_ar": "حديث",
+                "name_en": "Hadith"
+            },{
+                "name_ar": "القرآن الكريم",
+                "name_en": "Holy Qur'an"
+            },{
+                "name_ar": "علوم القرآن",
+                "name_en": "Qur'an Science"
+            },{
+                "name_ar": "دراسات لغوية",
+                "name_en": "Linguistic Studies"
+            },{
+                "name_ar": "التفسير",
+                "name_en": "Interpretation"
+            },{
+                "name_ar": "لغة انجليزية تخصصية",
+                "name_en": "Specialized English"
+            },{
+                "name_ar": "أصول فقه",
+                "name_en": "jurisprudence"
+            },{
+                "name_ar": "لغة عربية - البلاغة النقدية ",
+                "name_en": "Arabic - Critical Rhetoric"
+             },{
+                "name_ar": "قراءات او فرائض",
+                "name_en": "Islamic"
+            },{
+                "name_ar": "مبادئ القانون",
+                "name_en": "Law Principles"    
+            },{
+                "name_ar": "تطبيقات في القانون",
+                "name_en": "Applications of Law"    
+            },{
+                "name_ar": "مشروع التخرج",
+                "name_en": "Graduation Project"
+            }
+        ] 
+    }
+}
